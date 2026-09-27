@@ -34,7 +34,7 @@ export function FloatingCartButton({
 const styles = StyleSheet.create({
   button: {
     position: "absolute",
-    bottom: 24,
+    bottom: 70,
     right: 20, // neo góc dưới-phải MÀN HÌNH
     width: SIZE,
     height: SIZE,
